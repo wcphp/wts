@@ -8,6 +8,7 @@ use Illuminate\Foundation\Auth\ResetsPasswords;
 class ResetPasswordController extends Controller
 {
     /*
+     * fefefefe
     |--------------------------------------------------------------------------
     | Password Reset Controller
     |--------------------------------------------------------------------------
